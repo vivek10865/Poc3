@@ -1,0 +1,14 @@
+{
+  "incidentid": "0cad47c7-20a9-5a20-9361-7dd09b03c253",
+  "ticketnumber": "CAS-00301",
+  "title": "Refund request after injury",
+  "casetypecode": "Refund",
+  "prioritycode": "High",
+  "statecode": "Active",
+  "statuscode": "In Progress",
+  "_customerid_value": "baaed340-7f37-5c9e-8d43-f950787672d4",
+  "_ironman_eventid_value": "bef697bb-7914-52fc-9d34-5e92b19be3b8",
+  "description": "Athlete injured before race week.",
+  "createdon": "2026-09-01T00:00:00Z",
+  "modifiedon": "2026-09-01T00:00:00Z"
+}

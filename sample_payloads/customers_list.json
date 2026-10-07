@@ -1,0 +1,24 @@
+{
+  "@odata.context": "http://localhost:8100/api/data/v9.2/$metadata#accounts",
+  "value": [
+    {
+      "accountid": "73a72430-2b43-5dc9-ada4-83cf53fea749",
+      "name": "Tri Racing Club 1",
+      "customertypecode": "Club",
+      "primarycontactid": null,
+      "emailaddress1": "contact1@example.com",
+      "address1_country": "Switzerland",
+      "createdon": "2025-08-06T00:00:00Z"
+    },
+    {
+      "accountid": "8bbc798c-e153-5616-9428-f540c7b654ba",
+      "name": "Tri Racing Club 2",
+      "customertypecode": "Club",
+      "primarycontactid": null,
+      "emailaddress1": "contact2@example.com",
+      "address1_country": "Austria",
+      "createdon": "2024-10-10T00:00:00Z"
+    }
+  ],
+  "@odata.nextLink": "http://localhost:8100/api/data/v9.2/customers?$top=2&$filter=customertypecode eq 'Club'&$skip=2"
+}

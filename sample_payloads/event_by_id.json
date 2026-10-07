@@ -1,0 +1,14 @@
+{
+  "@odata.context": "http://localhost:8100/api/data/v9.2/$metadata#ironman_events/$entity",
+  "ironman_eventid": "bef697bb-7914-52fc-9d34-5e92b19be3b8",
+  "ironman_name": "IRONMAN Kona",
+  "ironman_eventtype": "IRONMAN",
+  "ironman_eventdate": "2025-10-05",
+  "ironman_city": "Kona",
+  "ironman_country": "United States",
+  "ironman_region": "North America",
+  "ironman_capacity": 2305,
+  "ironman_registrationopen": "2024-10-05",
+  "ironman_registrationclose": "2025-09-21",
+  "statuscode": "COMPLETED"
+}

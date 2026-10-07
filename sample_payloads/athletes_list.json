@@ -1,0 +1,32 @@
+{
+  "@odata.context": "http://localhost:8100/api/data/v9.2/$metadata#contacts",
+  "value": [
+    {
+      "contactid": "497d8689-2b55-5cfa-87c2-d0172aff4c48",
+      "ironman_athleteno": 1,
+      "firstname": "Mark",
+      "lastname": "Johnson",
+      "fullname": "Mark Johnson",
+      "emailaddress1": "mark.johnson1@example.com",
+      "gendercode": "M",
+      "birthdate": "1987-07-21",
+      "ironman_agegroup": "M35-39",
+      "address1_country": "Australia",
+      "ironman_ispro": false
+    },
+    {
+      "contactid": "c7b5c288-3674-52bb-a330-293b7c4475dd",
+      "ironman_athleteno": 2,
+      "firstname": "João Guilherme",
+      "lastname": "da Cruz",
+      "fullname": "João Guilherme da Cruz",
+      "emailaddress1": "joaoguilherme.dacruz2@example.com",
+      "gendercode": "M",
+      "birthdate": "1988-05-22",
+      "ironman_agegroup": "M35-39",
+      "address1_country": "Brazil",
+      "ironman_ispro": false
+    }
+  ],
+  "@odata.nextLink": "http://localhost:8100/api/data/v9.2/athletes?$top=2&$skip=2"
+}

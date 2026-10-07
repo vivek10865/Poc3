@@ -1,0 +1,8 @@
+{
+  "title": "Refund request after injury",
+  "casetypecode": "Refund",
+  "prioritycode": "High",
+  "description": "Athlete injured before race week.",
+  "customer_id": "baaed340-7f37-5c9e-8d43-f950787672d4",
+  "event_id": "bef697bb-7914-52fc-9d34-5e92b19be3b8"
+}

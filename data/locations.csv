@@ -1,0 +1,35 @@
+location_id,city,country,region
+1,Kona,United States,North America
+2,Lake Placid,United States,North America
+3,Chattanooga,United States,North America
+4,Boulder,United States,North America
+5,Santa Rosa,United States,North America
+6,Mont-Tremblant,Canada,North America
+7,Cozumel,Mexico,Latin America
+8,Florianopolis,Brazil,Latin America
+9,Frankfurt,Germany,Europe
+10,Klagenfurt,Austria,Europe
+11,Vichy,France,Europe
+12,Nice,France,Europe
+13,Barcelona,Spain,Europe
+14,Tallinn,Estonia,Europe
+15,Cork,Ireland,Europe
+16,Copenhagen,Denmark,Europe
+17,Zurich,Switzerland,Europe
+18,Tampere,Finland,Europe
+19,Gdynia,Poland,Europe
+20,Cascais,Portugal,Europe
+21,Lanzarote,Spain,Europe
+22,Weymouth,United Kingdom,Europe
+23,Cairns,Australia,Asia-Pacific
+24,Busselton,Australia,Asia-Pacific
+25,Taupo,New Zealand,Asia-Pacific
+26,Melbourne,Australia,Asia-Pacific
+27,Subic Bay,Philippines,Asia-Pacific
+28,Da Nang,Vietnam,Asia-Pacific
+29,Kaohsiung,Taiwan,Asia-Pacific
+30,Langkawi,Malaysia,Asia-Pacific
+31,Goa,India,Asia-Pacific
+32,Cape Town,South Africa,Middle East & Africa
+33,Muscat,Oman,Middle East & Africa
+34,Dubai,United Arab Emirates,Middle East & Africa

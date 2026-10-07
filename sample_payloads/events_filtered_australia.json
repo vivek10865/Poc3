@@ -1,0 +1,20 @@
+{
+  "@odata.context": "http://localhost:8100/api/data/v9.2/$metadata#ironman_events",
+  "value": [
+    {
+      "ironman_name": "IRONMAN Cairns",
+      "ironman_eventdate": "2026-10-18",
+      "ironman_city": "Cairns"
+    },
+    {
+      "ironman_name": "IRONMAN 70.3 Busselton",
+      "ironman_eventdate": "2026-11-01",
+      "ironman_city": "Busselton"
+    },
+    {
+      "ironman_name": "IRONMAN 70.3 Melbourne",
+      "ironman_eventdate": "2026-12-06",
+      "ironman_city": "Melbourne"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@odata.context": "http://localhost:8100/api/data/v9.2/$metadata#incidents",
+  "value": [
+    {
+      "incidentid": "28471a7e-cf0e-5b39-9ddd-e6b3a429f907",
+      "ticketnumber": "CAS-00001",
+      "title": "Wave start time enquiry",
+      "casetypecode": "Info",
+      "prioritycode": "Normal",
+      "statecode": "Active",
+      "statuscode": "In Progress",
+      "_customerid_value": "cef21d58-b65c-577c-8ab4-b13313d8d6d4",
+      "_ironman_eventid_value": "f696ae12-4829-5d7c-bc82-ebd680ccd7c3",
+      "description": "Synthetic case about IRONMAN Cork.",
+      "createdon": "2026-05-14T11:00:00Z",
+      "modifiedon": "2026-05-14T11:00:00Z"
+    }
+  ],
+  "@odata.nextLink": "http://localhost:8100/api/data/v9.2/cases?$top=1&$filter=statecode eq 'Active'&$skip=1"
+}
